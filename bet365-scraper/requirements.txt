@@ -1,0 +1,7 @@
+firebase_admin==6.6.0
+pandas==2.2.3
+python-dotenv==1.0.1
+pytz==2022.7
+Requests==2.32.3
+gunicorn==23.0.0
+flask==3.0.3
